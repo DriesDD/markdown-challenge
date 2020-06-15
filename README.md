@@ -4,7 +4,7 @@
 
 ![](https://github.com/DriesDD/markdown-challenge/blob/master/dries.jpeg)
 
-##### Enjoys creating things in general.
+#### Enjoys creating things in general.
 
 | | | |
 |-|-|-|
