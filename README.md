@@ -37,4 +37,4 @@ While arrested by the police in Germany for tresspassing in a coal mine, my fing
 #### tl;dr
 Love can overcome anything <3
 
-<< previous || Dries De Decker || next >>
+<< Bastiaan || Dries De Decker || Ezgi >>
