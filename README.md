@@ -1,6 +1,6 @@
 # Dries De Decker
 
-*There are more neurons in your brain than there are brains in your entire body or something.*
+*There are more neurons in the universe than there are brains in your entire body or something.*
 
 ![](https://github.com/DriesDD/markdown-challenge/blob/master/dries.jpeg)
 
