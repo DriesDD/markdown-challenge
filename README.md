@@ -37,4 +37,4 @@ While arrested by the police in Germany for tresspassing in a coal mine, my fing
 #### tl;dr
 Love can overcome anything <3
 
-<< [Bas Mahieu](https://github.com/basmahieu/markdown-challenge/blob/master/README.md) || Dries De Decker || Ezgi >>
+<< [Bas Mahieu](https://github.com/basmahieu/markdown-challenge/blob/master/README.md) || Dries De Decker || [Ezgi](https://github.com/ezgihendrickx/markdown-challenge/blob/master/README.md) >>
