@@ -5,7 +5,7 @@ Exercise on markdown
 
 *The journey is the destination.*
 
-![Dries](/https://github.com/DriesDD/markdown-challenge/dries.jpeg)
+![](https://github.com/DriesDD/markdown-challenge/blob/master/dries.jpeg)
 
 ##### Enjoys creating things in general.
 
