@@ -1,6 +1,3 @@
-# markdown-challenge
-Exercise on markdown
-
 # Dries De Decker
 
 *The journey is the destination.*
