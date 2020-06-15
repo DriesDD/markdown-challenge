@@ -9,7 +9,7 @@
 | | | |
 |-|-|-|
 Birthday:|24/08
-Favorite color:|Warm and earthy ones
+Favorite color:|Warm and earthy ones like #a9140e
 Favorite food:|Tajines
 Pineapple on pizza:|Not for me
 
