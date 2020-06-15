@@ -21,10 +21,10 @@ Pineapple on pizza:|Not for me
 * Hosting travellers
 * Activism
 * Creating
- * Food
- * Boardgames
- * Art
- * Code?
+    * Food
+    * Boardgames
+    * Art
+    * Code?
 
 ### You can alays count on me when you need chicken eggs or a place to crash.
 
